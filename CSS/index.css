@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin: 0;
+    
+}
+h1{
+    margin: 0px auto;
+    width: 30%;
+    font-family: 'Great Vibes', cursive;
+    font-size: 400%;
+}
+.main{
+    background-color: #B9EDDD;
+    position: relative;
+    padding-top: 210px;
+}
+.pro{
+    font-size: 200%;
+    font-family: 'Instrument Serif', serif;
+    padding: 1px;
+}
+.cloud{
+    width: 150px;
+}
+.top-cloud{
+    position: absolute;
+    top: 62px;
+    left: 856px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 227px;
+    left: 350px;
+}
+.mountain{
+    width: 400px;
+    margin-top: 60px;
+}
+span{
+    text-decoration: underline;
+}
