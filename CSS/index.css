@@ -24,13 +24,13 @@ h1{
 }
 .top-cloud{
     position: absolute;
-    top: 62px;
-    left: 856px;
+    top: 10%;
+    left: 70%;
 }
 .bottom-cloud{
     position: absolute;
-    top: 227px;
-    left: 350px;
+    top: 50%;
+    left: 25%;
 }
 .mountain{
     width: 400px;
